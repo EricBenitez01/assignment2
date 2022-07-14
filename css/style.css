@@ -60,6 +60,7 @@ nav ul{
     justify-content: space-between;
 }
 nav ul li {
+    width: 109px;
     color: var(--white-secondary);
     background-color: var(--blue);
     padding: 7px;
